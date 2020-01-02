@@ -1,8 +1,31 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title>Hello World</title>
-    <url>/2019/12/31/hello-world/</url>
-    <content><![CDATA[]]></content>
-  </entry>
+<search> 
+  
+  
+    
+    <entry>
+      <title>post title with whitespace</title>
+      <link href="/2020/01/02/post-title-with-whitespace/"/>
+      <url>/2020/01/02/post-title-with-whitespace/</url>
+      
+      
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/2019/12/31/hello-world/"/>
+      <url>/2019/12/31/hello-world/</url>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
+    
+  
 </search>
