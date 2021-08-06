@@ -22,7 +22,19 @@ Work experience
 * February 2017 to March 2020: Machine Learning Engineer
   * Sogou Inc.
   * Duties included: image indexing optimization and large-scale duplicate image clustering
-  
+
+Publications
+======
+------
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Projects
+======
+------
+* [CBRSIR_VS](https://github.com/sunyuxi/CBRSIRVS)
+
 Skills
 ======
 ------
@@ -34,10 +46,3 @@ Skills
 * PyTorch, TensorFlow, Python, C/C++, Java
 * Linux
 
-Publications
-======
-------
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
