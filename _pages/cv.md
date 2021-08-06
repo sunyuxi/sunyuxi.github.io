@@ -11,19 +11,21 @@ redirect_from:
 ------
 Education
 ======
--
+------
 * B.S. in Computer Science, Changchun University of Science and Technology, 2014
 * M.S. in Computer Science, Harbin Institute of Technology, Shenzhen, 2017
 * Ph.D. in Computer Science, Harbin Institute of Technology, Shenzhen, 2023 (expected)
 
 Work experience
 ======
+------
 * February 2017 to March 2020: Machine Learning Engineer
   * Sogou Inc.
   * Duties included: image indexing optimization and large-scale duplicate image clustering
   
 Skills
 ======
+------
 * Nearest neighbor search: learning to hash, graph-based indexing, tree-based indexing, inverted multi-index, product quantizer, etc.
 * Information/Image retrieval
 * Natural language processing, e.g., sentence representation, text classification, NLI
@@ -34,6 +36,7 @@ Skills
 
 Publications
 ======
+------
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
