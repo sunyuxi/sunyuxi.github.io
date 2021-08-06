@@ -24,12 +24,13 @@ Work experience
   * Sogou Inc.
   * Duties included: image indexing optimization and large-scale duplicate image clustering
 
-Publications
+<!--Publications
 ======
 ------
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
 
 Projects
 ======
