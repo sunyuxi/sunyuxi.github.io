@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Yuxi Sun"
   avatar           : "profile.png"
-  bio              : "I am a Ph.D. student at Harbin Institute of Technology, Shenzhen."
-  location         : "Harbin Institute of Technology, Shenzhen"
+  bio              : "I am a Ph.D. student at Harbin Institute of Technology."
+  location         : "Shenzhen, China"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "#"
-  email            :
+  pubmed           :
+  googlescholar    : 
+  email            : sunyuxi@alu.hit.edu.cn
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
