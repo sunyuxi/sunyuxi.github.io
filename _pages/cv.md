@@ -8,9 +8,10 @@ redirect_from:
 ---
 
 {% include base_path %}
-
+------
 Education
 ======
+------
 * B.S. in Computer Science, Changchun University of Science and Technology, 2014
 * M.S. in Computer Science, Harbin Institute of Technology, Shenzhen, 2017
 * Ph.D. in Computer Science, Harbin Institute of Technology, Shenzhen, 2023 (expected)
