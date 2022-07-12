@@ -35,7 +35,8 @@ Work experience
 Projects
 ======
 ------
-* [1. CBRSIR_VS](https://github.com/sunyuxi/CBRSIRVS)   [2. GeoVG](https://sunyuxi.github.io/publication/GeoVG) 
+1. [CBRSIR_VS](https://github.com/sunyuxi/CBRSIRVS)
+2. [GeoVG](https://sunyuxi.github.io/publication/GeoVG) 
 
 Skills
 ======
