@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-[7] **Yuxi Sun**, Shanshan Feng, Xutao Li, et al., Visual Grounding in Remote Sensing Images\[C\]//Proceedings of the ACM International Conference on Multimedia, 2022. 
+[7] **Yuxi Sun**, Shanshan Feng, Xutao Li, et al., Visual Grounding in Remote Sensing Images\[C\]//Proceedings of the ACM International Conference on Multimedia, 2022.  \[[PDF](https://dl.acm.org/doi/abs/10.1145/3503161.3548316)\]  
 
 [6] **Yuxi Sun**, Shanshan Feng, Yunming Ye, et al., Multi-sensor Fusion and Explicit Semantic Preserving-based Deep Hashing for Cross-Modal Remote Sensing Image Retrieval\[J\]. IEEE Transactions on Geoscience and Remote Sensing, 2021. \[[PDF](https://doi.org/10.1109/TGRS.2021.3136641)\]  
 
