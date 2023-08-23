@@ -5,6 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 [9] **Yuxi Sun**, Yunming Ye, Jian Kang, et al. Cross-view Object Geo-localization in a Local Region with Satellite Imagery[J]. IEEE Transactions on Geoscience and Remote Sensing[J]. 2023. \[[PDF](https://doi.org/10.1109/TGRS.2023.3307508)\]
+
 [8] **Yuxi Sun**, Yunming Ye, Jian Kang, et al. Multisource Data Reconstruction-based Deep Unsupervised Hashing for Unisource Remote Sensing Image Retrieval[J]. IEEE Transactions on Geoscience and Remote Sensing, 2022.  \[[PDF](https://ieeexplore.ieee.org/abstract/document/10001754)\]
 
 [7] **Yuxi Sun**, Shanshan Feng, Xutao Li, et al., Visual Grounding in Remote Sensing Images\[C\]//Proceedings of the ACM International Conference on Multimedia, 2022.  \[[PDF](https://dl.acm.org/doi/abs/10.1145/3503161.3548316)\]  
