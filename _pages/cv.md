@@ -36,7 +36,8 @@ Projects
 ======
 ------
 1. [CBRSIR_VS](https://github.com/sunyuxi/CBRSIRVS)
-2. [GeoVG](https://sunyuxi.github.io/publication/GeoVG) 
+2. [GeoVG](https://sunyuxi.github.io/publication/GeoVG)
+3. [DetGeo](https://github.com/sunyuxi/DetGeo)
 
 Skills
 ======
