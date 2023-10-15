@@ -38,6 +38,7 @@ Projects
 1. [CBRSIR_VS](https://github.com/sunyuxi/CBRSIRVS)
 2. [GeoVG](https://sunyuxi.github.io/publication/GeoVG)
 3. [DetGeo](https://github.com/sunyuxi/DetGeo)
+4. [C2Hash](https://github.com/sunyuxi/C2Hash)
 
 Skills
 ======
