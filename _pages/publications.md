@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-[11] **Yuxi Sun**, Yunming Ye, Jian Kang, et al. Cross-modal Hashing with Feature Semi-interaction and Semantic Ranking for Remote Sensing Ship Image Retrieval. IEEE Transactions on Geoscience and Remote Sensing[J]. 2024.
+[11] **Yuxi Sun**, Yunming Ye, Jian Kang, et al. Cross-modal Hashing with Feature Semi-interaction and Semantic Ranking for Remote Sensing Ship Image Retrieval. IEEE Transactions on Geoscience and Remote Sensing[J]. 2024. \[[PDF](https://ieeexplore.ieee.org/document/10440628)\]
 
 [10] **Yuxi Sun**, Yunming Ye, Jian Kang, et al. Consistency Center-Based Deep Cross-Modal Hashing for Multi-Source Remote Sensing Image Retrieval[J]. IEEE Transactions on Geoscience and Remote Sensing[J]. 2023. \[[PDF](https://doi.org/10.1109/TGRS.2023.3323495)\]
 
